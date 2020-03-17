@@ -9,6 +9,8 @@ de confinement annoncé par le gouvernement et qui debute le 17/03/2020 à 12:00
 
 Le projet est un site qui permet de generer en PDF (Android/PC) et Image (IOS) une attestation suivant les conditions du gouvernements avec une signature éléctronique.
 
+L'idée du projet est de permettre d'avoir sur soi une version de l'attestation mais aussi de permettre a ceux qui non pas d'imprimante de pouvoir en avoir une.
+
 *PROJET EN COURS DE DEVELOPPEMENT & OUVERT A SUGGESTION ET AIDE*
 
 ## Serveur de développement
@@ -54,6 +56,8 @@ The aim of this project is to facilitate the access and the edition of the CERTI
 containment plan announced by the government and starting on 17/03/2020 at 12:00 to combat the spread of the COVID-19 virus.
 
 The project is a site that allows to generate in PDF (Android/PC) and Image (IOS) a certificate according to the government conditions with an electronic signature.
+
+The idea of the project is to make it possible to carry a version of the certificate but also to allow those who do not have a printer to be able to have one.
 
 *PROJECT UNDER DEVELOPMENT & OPEN TO SUGGESTION AND HELP*
 
