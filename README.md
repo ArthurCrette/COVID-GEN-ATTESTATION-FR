@@ -11,6 +11,12 @@ Le projet est un site qui permet de generer en PDF (Android/PC) et Image (IOS) u
 
 L'idée du projet est de permettre d'avoir sur soi une version de l'attestation mais aussi de permettre a ceux qui non pas d'imprimante de pouvoir en avoir une.
 
+
+IOS : Remplir le formulaire puis cliquez sur "Convertir l'attestation", puis sur le bouton "Voir l'attestation" et vous pourrez enregistrer l'image dans votre galerie.
+
+Android & Autre : Remplir l formulaire puis cliquez sur "Convertir l'attestation", elle devrait se télécharger automatiquement ou vous devrez accepter le téléchargement de celle-ci.
+
+
 *PROJET EN COURS DE DEVELOPPEMENT & OUVERT A SUGGESTION ET AIDE*
 
 ## Serveur de développement
@@ -58,6 +64,11 @@ containment plan announced by the government and starting on 17/03/2020 at 12:00
 The project is a site that allows to generate in PDF (Android/PC) and Image (IOS) a certificate according to the government conditions with an electronic signature.
 
 The idea of the project is to make it possible to carry a version of the certificate but also to allow those who do not have a printer to be able to have one.
+
+IOS: Fill in the form then click on "Convert the certificate", then on the "View certificate" button and you will be able to save the image in your gallery.
+
+Android & Other : Fill in the form then click on "Convert certificate", it should download automatically or you will have to accept the download.
+
 
 *PROJECT UNDER DEVELOPMENT & OPEN TO SUGGESTION AND HELP*
 
