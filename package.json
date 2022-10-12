@@ -24,7 +24,7 @@
     "angular-signature-pad": "0.0.14",
     "angular2-signaturepad": "^2.11.0",
     "html2canvas": "1.0.0-alpha.12",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.5.1",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
